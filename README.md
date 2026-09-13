@@ -27,7 +27,7 @@ Cenário de **transação simples com múltiplos bancos** (sem XA) — JobReposi
 Cenário de **transação distribuída (2-Phase Commit / XA)** — commit atômico envolvendo múltiplos recursos transacionais simultaneamente (bancos, mensageria).
 
 ### `Projetos Spring Batch/migracao_dados_to_db`
-Projeto de **migração de dados para banco de dados** usando Spring Batch — ETL de uma fonte externa para persistência.
+Projeto de **migração de dados para banco de dados** usando Spring Batch — ETL de uma fonte externa (SFPT) para persistência.
 
 ### `spring-batch-em-acao`
 Projeto de estudo baseado no material/livro "Spring Batch em Ação" — exemplos gerais consolidando os conceitos do framework.
